@@ -1,0 +1,499 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "name": "جسیکا اسمیت",
+      "authorBody": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "skill": "طراح وب",
+      "color": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
+      "name": "الهام گرفتن",
+      "color": "#2CBEA8"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/10/pikaso_embed-15-440x440.webp",
+      "name": "ابزار",
+      "color": "#FC825A"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/pikaso_embed-13.webp",
+      "name": "سفر",
+      "color": "#6E7BF0"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/360419-440x400.webp",
+      "name": "تکنولوژی",
+      "color": "#43B2FE"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/03/pikaso_embed-34-1-440x400.webp",
+      "name": "ورزش",
+      "color": "#FB5A66"
+    },
+    {
+      "id": "6",
+      "name": "سرگرمی",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
+      "color": "#8263F4"
+    },
+    {
+      "id": "8",
+      "name": "پرطرفدار",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
+      "color": "#FF61B9"
+    },
+    {
+      "id": "9",
+      "name": "ایده ها",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
+      "color": "#5ABCFF"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "category": "سفر",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/664564563-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سفر",
+          "hashtagColor": "#667BFA"
+        },
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    },
+    {
+      "id": "88",
+      "category": "سفر",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/664564563-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سفر",
+          "hashtagColor": "#667BFA"
+        },
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    },
+    {
+      "id": "2",
+      "category": "ورزش",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/664564563-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سفر",
+          "hashtagColor": "#667BFA"
+        },
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/7454574545-1380x640.webp",
+      "name": "فواید سفر با زبان دوم",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سبک زندگی",
+          "hashtagColor": "#FFA21E"
+        },
+        {
+          "hashtagName": "پرطرفدار",
+          "hashtagColor": "#FF885D"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "26 Dec",
+      "views": 20,
+      "comments": 0,
+      "color": "#FFA21E"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/664564563-768x597.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سفر ",
+          "hashtagColor": "#788BFB"
+        },
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "16 Dec",
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/arafed-skateboard-with-colorful-design-768x512.webp",
+      "name": "شکل دادن به منظره فردای ماشین های هوشمند",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "الهام بخش",
+          "hashtagColor": "#29BEA8"
+        },
+        {
+          "hashtagName": "موسیقی",
+          "hashtagColor": "#FF6C76"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "06 Dec",
+      "views": 200,
+      "comments": 0,
+      "color": "#29BEA8"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/motorcycle-safety-helmet-300x300.webp",
+      "name": "راه های پنهان برای پس انداز پولی که ممکن است از دست بدهید",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "ابزارک",
+          "hashtagColor": "#FF885D"
+        },
+        {
+          "hashtagName": "پرطرفدار",
+          "hashtagColor": "#FF54B3"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "06 Dec",
+      "views": 154,
+      "comments": 0,
+      "color": "#FF885D"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/chapeau-tricolore-eyes-freedom-440x440.webp",
+      "name": "رازهای مدیریت زمان یک مهندس کارآمد\n",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سفر ",
+          "hashtagColor": "#8B9BFB"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "10 Dec",
+      "views": 204,
+      "comments": 0,
+      "color": "#687DFA"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "الهام بخش",
+          "hashtagColor": "#26BDA7"
+        },
+        {
+          "hashtagName": "موسیقی",
+          "hashtagColor": "#FF5864"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "16 Dec",
+      "views": 208,
+      "comments": 0,
+      "color": "#26BDA7"
+    },
+    {
+      "id": "6475",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "06 Dec",
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    },
+    {
+      "id": "776",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "06 Dec",
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    },
+    {
+      "id": "77776",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "06 Dec",
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    },
+    {
+      "id": "787776",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "06 Dec",
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    },
+    {
+      "id": "56",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
+      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "سرگرمی",
+          "hashtagColor": "#8161F4"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "06 Dec",
+      "views": 20,
+      "comments": 0,
+      "color": "#8161F4"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/10/3556-1.webp"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/360419.webp"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/27176.webp"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/10/40248.webp"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/2151065119.webp"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/pikaso_embed.webp"
+    }
+  ]
+}
