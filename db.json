@@ -441,33 +441,6 @@
       "views": 20,
       "comments": 0,
       "color": "#8161F4"
-    },
-    {
-      "id": "56",
-      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
-      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
-      "author": "جسیکا اسمیت",
-      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
-      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
-      "body": [
-        {
-          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
-          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
-          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
-          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
-        }
-      ],
-      "hashtag": [
-        {
-          "hashtagName": "سرگرمی",
-          "hashtagColor": "#8161F4"
-        }
-      ],
-      "timeToRead": 3,
-      "createdAt": "06 Dec",
-      "views": 20,
-      "comments": 0,
-      "color": "#8161F4"
     }
   ]
 }
