@@ -41,22 +41,33 @@
       "color": "#FB5A66"
     },
     {
+      "id": "8",
+      "name": "پرطرفدار",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/27176.webp",
+      "color": "#FF61B9"
+    },
+    {
       "id": "6",
       "name": "سرگرمی",
       "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
       "color": "#8263F4"
     },
     {
-      "id": "8",
-      "name": "پرطرفدار",
-      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
-      "color": "#FF61B9"
-    },
-    {
       "id": "9",
       "name": "ایده ها",
       "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
       "color": "#5ABCFF"
+    },
+    {
+      "id": "6",
+      "name": "سرگرمی",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
+      "color": "#8263F4"
+    },{
+      "id": "10",
+      "name": "سبک زندگی",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/background-chair-440x440.webp",
+      "color": "#FFA21E"
     }
   ],
   "blogs": [
@@ -112,7 +123,8 @@
         {
           "hashtagName": "سفر ",
           "hashtagColor": "#788BFB"
-        },{
+        },
+        {
           "hashtagName": "ورزش ",
           "hashtagColor": "#8161F4"
         },
@@ -280,4 +292,5 @@
       "color": "#8161F4"
     }
   ]
+
 }
