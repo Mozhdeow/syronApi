@@ -59,11 +59,6 @@
       "color": "#5ABCFF"
     },
     {
-      "id": "6",
-      "name": "سرگرمی",
-      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/19165.webp",
-      "color": "#8263F4"
-    },{
       "id": "10",
       "name": "سبک زندگی",
       "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/background-chair-440x440.webp",
@@ -264,10 +259,10 @@
       "color": "#26BDA7"
     },
     {
-      "id": "6475",
-      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
-      "name": "آشپزی سالم با دستور العمل های مغذی آسان شده است",
-      "category": "ورزش",
+      "id": "7",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/53456456-1380x640.webp",
+      "name": "پیشرفت فراتر از مدل های سنتی پردازش اطلاعات",
+      "category": "سفر",
       "author": "جسیکا اسمیت",
       "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
       "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
@@ -281,16 +276,83 @@
       ],
       "hashtag": [
         {
-          "hashtagName": "سرگرمی",
-          "hashtagColor": "#8161F4"
+          "hashtagName": "پرطرفدار",
+          "hashtagColor": "#FF4EB0"
+        },
+        {
+          "hashtagName": "سفر",
+          "hashtagColor": "#667BFA"
         }
       ],
       "timeToRead": 3,
-      "createdAt": "06 Dec",
-      "views": 20,
+      "createdAt": "10 May",
+      "views": 28,
       "comments": 0,
-      "color": "#8161F4"
+      "color": "#26BDA7"
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/53456456-1380x640.webphttps://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/cute-rounded-3d-object-960x560.webp",
+      "name": "گواهی جدید برای تبلیغ کنندگان بیمه سلامت",
+      "category": "ایده ها",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "ایده ها",
+          "hashtagColor": "#45B3FF"
+        },
+        {
+          "hashtagName": "سبک زندگی",
+          "hashtagColor": "#FFA526"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "12 May",
+      "views": 215,
+      "comments": 0,
+      "color": "#26BDA7"
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/3d-smart-watch-1380x640.webp",
+      "name": "بررسی روندهای جدید در دکوراسیون منزل و طراحی داخلی",
+      "category": "الهام بخش",
+      "author": "جسیکا اسمیت",
+      "authorImageUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2151100233-300x300.webp",
+      "authorBody": "من آنقدر خوشحالم دوست عزیز، آنقدر غرق در حس نفیس وجود آرام هستم که از استعدادهایم غافل هستم. من باید در لحظه حاضر قادر به کشیدن یک ضربه نباشم. و با این حال احساس می کنم که هرگز هنرمند بزرگ تری از الان نبودم.",
+      "body": [
+        {
+          "bodyContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+          "imageContentUrl": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/8195-1024x574.webp",
+          "imageContentUrl2": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/494-1024x1024.webp",
+          "imageContentUrl3": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/2663-1024x1024.webp"
+        }
+      ],
+      "hashtag": [
+        {
+          "hashtagName": "الهام بخش ",
+          "hashtagColor": "#45B3FF"
+        },
+        {
+          "hashtagName": " سرگرمی",
+          "hashtagColor": "#8263F4"
+        }
+      ],
+      "timeToRead": 3,
+      "createdAt": "5 Au",
+      "views": 215,
+      "comments": 0,
+      "color": "#26BDA7"
     }
   ]
-
 }
