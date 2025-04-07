@@ -354,5 +354,39 @@
       "comments": 0,
       "color": "#26BDA7"
     }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/3d-coin-icon-currency-finance-440x520.webp"
+    },
+    {
+      "id": "2",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/06/3d-rendering-square-shape-red-background-440x520.webp"
+    },
+    {
+      "id": "3",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/3d-smart-watch-440x520.webp"
+    },
+    {
+      "id": "4",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/illustration-world-music-day-concept-generative-ai-440x520.webp"
+    },
+    {
+      "id": "5",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/arafed-skateboard-with-colorful-design-440x520.webp"
+    },
+    {
+      "id": "6",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/cute-rounded-3d-object-440x520.webp"
+    },
+    {
+      "id": "7",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/7454574545-440x520.webp"
+    },
+    {
+      "id": "8",
+      "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/cool-motorcycle-studio-440x520.webp"
+    }
   ]
 }
