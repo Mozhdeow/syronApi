@@ -388,5 +388,23 @@
       "id": "8",
       "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/cool-motorcycle-studio-440x520.webp"
     }
-  ]
+  ],
+  "slider": [
+      {
+        "id": "1",
+        "image": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/hero/hero-1.png",
+        "offer": "30%",
+        "title": "میوه های سالم و تازه را کاوش کنید"
+      },{
+        "id": "2",
+        "image": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/hero/hero-2.png",
+        "offer": "20%",
+        "title": "فست فود و تنقلات گرم را کاوش کنید"
+      },{
+        "id": "3",
+        "image": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/hero/hero-3.png",
+        "offer": "30%",
+        "title": "سبزیجات ارگانیک و تازه را کاوش کنید"
+      }
+    ]
 }
