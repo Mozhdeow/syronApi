@@ -406,5 +406,110 @@
         "offer": "30%",
         "title": "سبزیجات ارگانیک و تازه را کاوش کنید"
       }
-    ]
+    ],
+  "keywords": [
+    {
+      " id": 1,
+      "name": "میوه"
+    },
+    {
+      "id": 2,
+      "name": "کیف ها"
+    },
+    {
+      " id": 3,
+      "name": "جواهرات"
+    },
+    {
+      " id": 4,
+      "name": "اسباب بازی"
+    },
+    {
+      " id": 5,
+      "name": "غذاهای دریایی"
+    },
+    {
+      " id": 6,
+      "name": "لبنیات"
+    },
+    {
+      " id": 7,
+      "name": "تنقلات"
+    },
+    {
+      " id": 8,
+      "name": "لباس"
+    }
+  ],
+  "productCategories": [
+    {
+      "id": "1",
+      "imageUrl": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/category/1.svg",
+      "name": "سبزیجات",
+      "color": "#FEF1F1"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/category/3.svg",
+      "name": "نوشیدنی های سرد",
+      "color": "#E1FCF2"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/category/4.svg",
+      "name": "نانوایی",
+      "color": "#F4F1FE"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/category/5.svg",
+      "name": "فست فود",
+      "color": "#FBF9E4"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/category/2.svg",
+      "name": "میوه ها",
+      "color": "#E1FCF2"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/category/6.svg",
+      "name": "تنقلات",
+      "color": "#F4F1FE"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "بسته بندی 250 گرمی میوه خشک ارگانیک درجه یک آجیل ",
+      "imageUrl": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/new-product/1.jpg",
+      "imageBody": [
+        {
+          "id": "1",
+          "imageSlider": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/new-product/1.jpg"
+        },
+        {
+          "id": "2",
+          "imageSlider": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/new-product/2.jpg"
+        },
+        {
+          "id": "3",
+          "imageSlider": "https://maraviyainfotech.com/projects/blueberry-tailwind/assets/img/new-product/4.jpg"
+        }
+      ],
+      "body": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+      "price": 200000,
+      "weight": [
+        {
+          "weight": 250,
+          "price": 200000
+        },
+        {
+          "weight": 500,
+          "price": 250000
+        }
+      ]
+    }
+  ]
 }
